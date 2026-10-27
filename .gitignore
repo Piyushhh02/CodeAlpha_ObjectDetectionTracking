@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Model weights & media
+*.pt
+*.onnx
+runs/
+out.mp4
+*.mp4
+*.avi
